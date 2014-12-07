@@ -338,6 +338,15 @@ public class Language {
 		if (!getConfig().contains("Entities.EnderCrystal")) {
 			getConfig().addDefault("Entities.EnderCrystal", "&eEnderCrystal");
 		}
+		if (!getConfig().contains("Entities.Endermite")) {
+			getConfig().addDefault("Entities.Endermite", "&eEndermite");
+		}
+		if (!getConfig().contains("Entities.Guardian")) {
+			getConfig().addDefault("Entities.Guardian", "&eGuardian");
+		}
+		if (!getConfig().contains("Entities.Rabbit")) {
+			getConfig().addDefault("Entities.Rabbit", "&eRabbit");
+		}
 
 		try {
 			// try to save the file
