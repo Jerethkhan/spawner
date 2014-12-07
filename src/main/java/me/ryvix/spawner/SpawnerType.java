@@ -82,7 +82,10 @@ public enum SpawnerType {
 	IRON_GOLEM("VillagerGolem", Main.language.getEntity(Entities.VillagerGolem), 99),
 	HORSE("EntityHorse", Main.language.getEntity(Entities.EntityHorse), 100),
 	VILLAGER("Villager", Main.language.getEntity(Entities.Villager), 120),
-	ENDER_CRYSTAL("EnderCrystal", Main.language.getEntity(Entities.EnderCrystal), 200);
+	ENDER_CRYSTAL("EnderCrystal", Main.language.getEntity(Entities.EnderCrystal), 200),
+	ENDERMITE("Endermite", Main.language.getEntity(Entities.Endermite), 67),
+	GUARDIAN("Guardian", Main.language.getEntity(Entities.Guardian), 68),
+	RABBIT("Rabbit", Main.language.getEntity(Entities.Rabbit), 101);
 
 	private String name;
 	private String text;
