@@ -25,5 +25,5 @@ package me.ryvix.spawner.language;
  */
 public enum Entities {
 
-	XPOrb, LeashKnot, Painting, Arrow, Snowball, Fireball, SmallFireball, ThrownEnderpearl, EyeOfEnderSignal, ThrownExpBottle, ItemFrame, WitherSkull, PrimedTnt, MinecartCommandBlock, Boat, MinecartRideable, MinecartChest, MinecartFurnace, MinecartTNT, MinecartHopper, MinecartMobSpawner, Creeper, Skeleton, Spider, Giant, Zombie, Slime, Ghast, PigZombie, Enderman, CaveSpider, Silverfish, Blaze, LavaSlime, EnderDragon, WitherBoss, Bat, Witch, Pig, Sheep, Cow, Chicken, Squid, Wolf, MushroomCow, SnowMan, Ozelot, VillagerGolem, EntityHorse, Villager, EnderCrystal
+	XPOrb, LeashKnot, Painting, Arrow, Snowball, Fireball, SmallFireball, ThrownEnderpearl, EyeOfEnderSignal, ThrownExpBottle, ItemFrame, WitherSkull, PrimedTnt, MinecartCommandBlock, Boat, MinecartRideable, MinecartChest, MinecartFurnace, MinecartTNT, MinecartHopper, MinecartMobSpawner, Creeper, Skeleton, Spider, Giant, Zombie, Slime, Ghast, PigZombie, Enderman, CaveSpider, Silverfish, Blaze, LavaSlime, EnderDragon, WitherBoss, Bat, Witch, Pig, Sheep, Cow, Chicken, Squid, Wolf, MushroomCow, SnowMan, Ozelot, VillagerGolem, EntityHorse, Villager, EnderCrystal, Endermite, Guardian, Rabbit
 }
